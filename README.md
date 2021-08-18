@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amyktomey
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning C# 
 -  
 - 📫 How to reach me ...
 
