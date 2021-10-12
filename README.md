@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amyktomey
-- 👀 I’m interested in learning new things
+- 👀 I’m  always interested in learning new things
 - 🌱 I’m currently learning Python 
 -  
 - 📫 How to reach me: amy.tomey59@gmail.com
