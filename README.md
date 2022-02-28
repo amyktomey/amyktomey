@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amyktomey
 - 👀 I’m  always interested in learning new things
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning C# 
 -  
 - 📫 How to reach me: amy.tomey59@gmail.com
 
