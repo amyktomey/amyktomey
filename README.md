@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amyktomey
 - 👀 I’m  always interested in learning new things
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C#, Entity Framework, SQL and SQLite.
 -  
 - 📫 How to reach me: amy.tomey59@gmail.com
 
