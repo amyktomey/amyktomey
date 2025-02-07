@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amyktomey
+- 👋 Hi, I’m Amy.
 - 👀 I’m  always interested in learning new things.
 
 - I know several rarely used computer languages... COBOL, Fortran, RPG II & III, Basic and... cards. I have programmed with cards. I built my first computer in the 1990's. 
