@@ -3,7 +3,7 @@
 
 - I know several rarely used computer languages... COBOL, Fortran, RPG II & III, Basic and... cards. I have programmed with cards. I built my first computer in the 1990's. 
 
-Through Code Louisville, I have added the following to my repertoire:
+Through Code:You, I have added the following to my repertoire:
  
  🌱 Front End Web Development (HTML, CSS & JavaScript)
  
